@@ -1,2 +1,2 @@
-# testgithub
-This repo is for practices
+# testgit
+This repo is for practices only.
